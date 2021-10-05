@@ -1,0 +1,4 @@
+# Enable Minegeld exchange to bank balance
+command_shop_exchange (Enable Minegeld exchange to bank balance) bool true
+# Enable Minegeld exchange to bank balance
+command_shop_buy_sell_ratio (Buy sell prices ratio) float 3.0
